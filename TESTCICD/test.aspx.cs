@@ -13,6 +13,7 @@ namespace TESTCICD
         {
             lbl.Text = "Helow ci/cd";
             lbl2.Text = "testing ci/cd";
+            int i =;
         }
     }
 }
