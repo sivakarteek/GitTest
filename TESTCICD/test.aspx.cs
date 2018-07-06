@@ -12,6 +12,7 @@ namespace TESTCICD
         protected void Page_Load(object sender, EventArgs e)
         {
             lbl.Text = "Helow ci/cd";
+            lbl2.Text = "testing ci/cd";
         }
     }
 }
